@@ -1,0 +1,4 @@
+buy ingredients
+prepare the ingredients
+cook the meal
+wash the dishes
